@@ -1,0 +1,20 @@
+{
+  "name": "marionette-query",
+  "version": "1.0.0",
+  "description": "A jQuery-like interface for the MarionetteJS integration test framework.",
+  "main": "mquery.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcav/mquery.git"
+  },
+  "keywords": [
+    "marionettejs"
+  ],
+  "author": "Marcus Cavanaugh <m@mcav.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mcav/mquery/issues"
+  }
+}
